@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwa Aashard</h1>
 <h3 align="center">ux ui designer|Author | Deep Thinker | Content Creator | Artist |</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=confab-sys&label=Profile%20views&color=0e75b6&style=flat" alt="confab-sys" /> </p>
-
-
 - 🔭 I’m currently working on **magna coders</>**
 
 <h3 align="left">Connect with me:</h3>
